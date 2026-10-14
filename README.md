@@ -1,4 +1,4 @@
-# Servidor API Flask + SQLite (Guía de Inicio)
+# PFO 2: Sistema de Gestión de Tareas con API y Base de Datos
 
 Bueno, este es un servidor API básico y fácil de entender desarrollado en **Python** con **Flask** y **SQLite**. Implementa un registro de usuarios con contraseñas seguras (hasheadas), inicio de sesión y una vista de bienvenida.
 
